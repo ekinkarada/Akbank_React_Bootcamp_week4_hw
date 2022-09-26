@@ -1,1 +1,1 @@
-# Akbank_React_Bottcamp_week4_hw
+# Akbank_React_Bootcamp_week4_hw
